@@ -1,0 +1,9 @@
+
+this will take you to the emacs editor
+
+input the details below0;276;0c
+0-current_working_directory
+
+#!/bin/bash
+
+pwd
